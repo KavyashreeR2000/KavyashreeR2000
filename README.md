@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavyashree R</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Tech- Trainee @ Byju's</h3>
 
-- 🌱 I’m currently learning **Linux Administration, Testing.**
-
-- 💬 Ask me about **C and Java**
-
-- 📫 How to reach me **kavyavasi20@gmail.com**
-
-- ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
